@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class HomePage extends StatefulWidget {
+class login extends StatefulWidget {
   const HomePage({super.key});
 
   @override
